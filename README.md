@@ -10,9 +10,13 @@ I'm currently working at the intersection of **data engineering** and **AI autom
 
 → [Job Market ETL Pipeline](https://github.com/ifrat-zaman/job-market-etl-pipeline) — End-to-end pipeline ingesting 90K job postings from Kaggle into PostgreSQL, with six analytical queries and an auto-generated Markdown report
 
+→ [Hospital Analytics Dashboard](https://github.com/ifrat-zaman/healthcare-analytics-dashboard) — A production-ready healthcare analytics pipeline and Streamlit dashboard built on four hospital operations public datasets.
+
 → [Medical Appointment No-Show Analysis](https://github.com/ifrat-zaman/Medical-Appointment-No-Show) — Feature engineering pipeline on 110K patient records, producing an interactive 8-sheet Excel dashboard for healthcare administrators
 
 → [BBC News Text Classification](https://github.com/ifrat-zaman/bbc-news-text-classification-nlp) — NLP pipeline classifying news articles across categories using ML techniques
+
+→ [Supermarket Retail Analytics Pipeline](https://github.com/ifrat-zaman/Supermarket-Retail-Analytics) — This project transforms raw multi-source retail data from a Chinese supermarket into a clean, analysis-ready dataset and an interactive Excel business intelligence dashboard. 
 
 ---
 
