@@ -21,15 +21,8 @@ I'm currently working at the intersection of **data engineering** and **AI autom
 ---
 
 **Tech I work with**
+<img width="2233" height="2385" alt="Ifrat Zaman-2" src="https://github.com/user-attachments/assets/3e461cd7-d6de-4b97-9a74-ea80d6ec77d1" />
 
-```
-Languages        Python · SQL · R
-Data & ETL       PostgreSQL · MySQL · Pandas · Parquet · Kaggle API
-Dashboards       Streamlit · Excel (openpyxl) · Matplotlib
-AI & Automation  n8n · Zapier · Gemini API · ChatGPT API · Google Workspace APIs
-Cloud & Infra    GitHub · Streamlit Community Cloud · Neon (serverless Postgres) · Microsoft Azure
-ML & NLP         scikit-learn · NLTK · Jupyter
-```
 
 ---
 
