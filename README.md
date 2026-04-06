@@ -1,6 +1,6 @@
 # Hi, I'm Ifrat 👋
 
-I'm a data engineer and AI automation builder based in Canada. I design pipelines that move and transform data at scale, build analytics dashboards that turn raw numbers into decisions, and create AI-powered workflow automations that save small businesses real time.
+I'm a data analyst, AI automation builder, and a certified Epic EHR Systems Analyst based in Canada. I design pipelines that move and transform data at scale, build analytics dashboards that turn raw numbers into decisions, create AI-powered workflow automations, and design EHR workflows for nurses and therapists that saves real time.
 
 I'm currently working at the intersection of **data engineering** and **AI automation** — building end-to-end systems with Python, PostgreSQL, and n8n, and exploring how tools like Gemini and Google Workspace can be stitched together to automate the repetitive work that slows teams down.
 
@@ -20,10 +20,10 @@ I'm currently working at the intersection of **data engineering** and **AI autom
 
 ```
 Languages        Python · SQL · R
-Data & ETL       PostgreSQL · Neon · Pandas · Parquet · Kaggle API
+Data & ETL       PostgreSQL · MySQL · Pandas · Parquet · Kaggle API
 Dashboards       Streamlit · Excel (openpyxl) · Matplotlib
-AI & Automation  n8n · Gemini API · Google Workspace APIs
-Cloud & Infra    GitHub · Streamlit Community Cloud · Neon (serverless Postgres)
+AI & Automation  n8n · Zapier · Gemini API · ChatGPT API · Google Workspace APIs
+Cloud & Infra    GitHub · Streamlit Community Cloud · Neon (serverless Postgres) · Microsoft Azure
 ML & NLP         scikit-learn · NLTK · Jupyter
 ```
 
@@ -31,7 +31,7 @@ ML & NLP         scikit-learn · NLTK · Jupyter
 
 **Let's connect**
 
-I'm always open to conversations about data, automation, and building things that actually solve problems.
+I'm always open to conversations about data, automation, and building things that actually solve problems and saves time.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ifrat--zaman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ifrat-zaman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ifrat--zaman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifratzaman/)
 [![GitHub](https://img.shields.io/badge/GitHub-ifrat--zaman-181717?style=flat&logo=github&logoColor=white)](https://github.com/ifrat-zaman)
