@@ -23,6 +23,8 @@ I'm currently working at the intersection of **data engineering** and **AI autom
 **Tech I work with**
 <img width="2233" height="2385" alt="Ifrat Zaman-2" src="https://github.com/user-attachments/assets/3e461cd7-d6de-4b97-9a74-ea80d6ec77d1" />
 
+[View the Interactive Mind Map](https://mindmapai.app/preview?input=db2e51faf0d1ba6df2fdfd3d770e77105ad771d0f05d8cbce12b933ec6ad84cc&target=canvas&theme=luminus.dark)
+
 
 ---
 
