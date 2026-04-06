@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ifrat 👋
 
-<!--
-**ifrat-zaman/ifrat-zaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data engineer and AI automation builder based in Canada. I design pipelines that move and transform data at scale, build analytics dashboards that turn raw numbers into decisions, and create AI-powered workflow automations that save small businesses real time.
 
-Here are some ideas to get you started:
+I'm currently working at the intersection of **data engineering** and **AI automation** — building end-to-end systems with Python, PostgreSQL, and n8n, and exploring how tools like Gemini and Google Workspace can be stitched together to automate the repetitive work that slows teams down.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**What I've shipped**
+
+→ [Job Market ETL Pipeline](https://github.com/ifrat-zaman/job-market-etl-pipeline) — End-to-end pipeline ingesting 90K job postings from Kaggle into PostgreSQL, with six analytical queries and an auto-generated Markdown report
+
+→ [Medical Appointment No-Show Analysis](https://github.com/ifrat-zaman/Medical-Appointment-No-Show) — Feature engineering pipeline on 110K patient records, producing an interactive 8-sheet Excel dashboard for healthcare administrators
+
+→ [BBC News Text Classification](https://github.com/ifrat-zaman/bbc-news-text-classification-nlp) — NLP pipeline classifying news articles across categories using ML techniques
+
+---
+
+**Tech I work with**
+
+```
+Languages        Python · SQL · R
+Data & ETL       PostgreSQL · Neon · Pandas · Parquet · Kaggle API
+Dashboards       Streamlit · Excel (openpyxl) · Matplotlib
+AI & Automation  n8n · Gemini API · Google Workspace APIs
+Cloud & Infra    GitHub · Streamlit Community Cloud · Neon (serverless Postgres)
+ML & NLP         scikit-learn · NLTK · Jupyter
+```
+
+---
+
+**Let's connect**
+
+I'm always open to conversations about data, automation, and building things that actually solve problems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ifrat--zaman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ifrat-zaman)
+[![GitHub](https://img.shields.io/badge/GitHub-ifrat--zaman-181717?style=flat&logo=github&logoColor=white)](https://github.com/ifrat-zaman)
