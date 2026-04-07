@@ -34,4 +34,4 @@ I'm always open to conversations about data, automation, and building things tha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ifrat--zaman-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifratzaman/)
 [![GitHub](https://img.shields.io/badge/GitHub-ifrat--zaman-181717?style=flat&logo=github&logoColor=white)](https://github.com/ifrat-zaman)
-[![GitHub](https://img.shields.io/badge/GitHub-ifrat--zaman-181717?style=flat&logo=github&logoColor=white)](https://ifrat-zaman.netlify.app)
+[![Website](https://img.shields.io/badge/GitHub-ifrat--zaman-181717?style=flat&logo=github&logoColor=white)](https://ifrat-zaman.netlify.app)
